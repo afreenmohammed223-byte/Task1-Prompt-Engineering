@@ -1,8 +1,8 @@
 # Task1-Prompt-Engineering
 # Luxury Travel Consultant AI
 
-## Project Overview
-This project was developed as part of the DecodeLabs Generative AI Internship Program. The objective is to design a professional AI-powered Luxury Travel Consultant using advanced Prompt Engineering techniques.
+## Task Overview
+This Task was developed as part of the DecodeLabs Generative AI Internship Program. The objective is to design a professional AI-powered Luxury Travel Consultant using advanced Prompt Engineering techniques.
 
 The chatbot is designed to:
 - Provide personalized luxury travel recommendations.
@@ -26,14 +26,14 @@ The chatbot is designed to:
 - Professional customer interaction
 - Consistent AI persona
 
-## Project Structure
+## Task Structure
 - system_prompt.txt – Main system prompt
 - few_shot_examples.md – Sample conversations
 - test_cases.md – Validation scenarios
 - screenshots/ – Chatbot interaction screenshots
 
 ## Learning Outcomes
-Through this project, I gained hands-on experience in:
+Through this task, I gained hands-on experience in:
 - Designing effective system prompts
 - Building AI personas
 - Implementing prompt constraints
