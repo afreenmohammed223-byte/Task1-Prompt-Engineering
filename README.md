@@ -15,7 +15,7 @@ The chatbot is designed to:
 ## Technologies Used
 - ChatGPT / GPT-4
 - Prompt Engineering
-- Personal Engineering
+- Persona Engineering
 - Few-Shot Prompting
 
 ## Features
